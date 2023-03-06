@@ -12,7 +12,7 @@
 
 ## Images
 
-![Crypto App Collage](..\CryptocurrencyAppYT\images\Crypto App Collage.png)
+![Crypto App Collage](/images/1.png)
 
 ## Libraries and Architectures
 
